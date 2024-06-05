@@ -90,14 +90,20 @@ The addBalance and reduceBalance functions are used to manage the contract balan
 * Clone the repository to your local machine:
 
 ```sh
->https://github.com/malehacker/project_RequireAsserRevert.git
+>https://github.com/malehacker/SOLIDITY_FunctionsandErrors.git
+>cd SOLIDITY_FunctionsandErrors
 ```
 
 ## Executing program
-Open the contract file Project.sol in your preferred Solidity development environment (e.g., Remix).
-Compile the contract:
 ```sh
-In Remix, click on the "Solidity Compiler" tab and then "Compile Project.sol"
+Open the contract in https://remix.ethereum.org/
+```
+
+file project_ReqireAssertRevert.sol in your preferred Solidity development environment (e.g., Remix).
+Compile the contract:
+
+```sh
+In Remix, click on the "Solidity Compiler" tab and then "Compile project_ReqireAssertRevert.sol"
 ```
 
 Deploy the contract to your chosen Ethereum network (e.g., a local test network or the Ethereum mainnet):
